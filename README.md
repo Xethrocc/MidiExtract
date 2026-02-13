@@ -38,6 +38,7 @@ pip install -r requirements.txt
 - `mido` - MIDI file reading/writing
 - `tqdm` - Progress bars
 - `symusic` - MIDI trimming (removes leading/trailing silence)
+- `music21` - Music analysis and theory (optional)
 
 ### 2. Add MIDI Files
 
@@ -196,6 +197,7 @@ This project uses the following open-source libraries:
 - **[mido](https://github.com/mido/mido)** - MIDI file I/O (MIT License)
 - **[tqdm](https://github.com/tqdm/tqdm)** - Progress bars (MIT/MPL-2.0 License)
 - **[symusic](https://github.com/Yikai-Liao/symusic)** - High-performance MIDI processing (MIT License)
+- **[music21](https://github.com/cuthbertLab/music21)** - Music analysis and theory (BSD License)
 
 We are grateful to the maintainers and contributors of these excellent libraries.
 
